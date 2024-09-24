@@ -1,0 +1,39 @@
+how to run 
+
+open anaconda prompt from search
+
+type 
+
+conda activate tf ( enter )
+
+type
+
+
+cd C:\Users\gutam\OneDrive\Desktop\NIDS ( enter )
+
+type 
+
+set FLASK_APP=server.py ( enter ) for windows
+
+
+type 
+
+python -m flask run --host 127.0.0.1 --port 5000
+
+for Jupiter code to run 
+
+open anaconda prompt from search
+
+type 
+
+cd C:\Users\gutam\OneDrive\Desktop\NIDS\NIDS jupyter( enter )
+
+type 
+
+conda activate tf ( enter )
+
+type
+
+jupyter notebook NIDS.ipynb
+
+
